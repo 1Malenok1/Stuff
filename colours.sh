@@ -128,7 +128,7 @@ while test $# -gt 0; do
 		echo -e "${C_LGy}https://t.me/nftmms — MMS_Research_Chat${RES}"
 		echo -e "${C_LGy}https://t.me/cosmochannel_mms — MMS_Cosmos_Ecosystem_Chat${RES}"
 		echo -e "${C_LGy}https://t.me/mmsnodes — MMS_Nodes_Chat${RES}"
-                echo -e "${C_LGy}https://nodes.mms.team — Guides_and_Instructions${RES}"
+                echo -e "${C_LGy}https://nodes.mms.team — Guides_and_Manuals${RES}"
 		echo
 		return 0 2>/dev/null; exit 0
 		;;
