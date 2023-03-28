@@ -60,12 +60,3 @@ Ba_Be='\033[44m'     # Blue
 Ba_P='\033[45m'      # Purple
 Ba_C='\033[46m'      # Cyan
 Ba_Gy='\033[47m'     # Gray
-
-
-		return 0 2>/dev/null; exit 0
-		;;
-	*|--)
-		break
-		;;
-	esac
-done
